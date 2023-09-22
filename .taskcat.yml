@@ -1,5 +1,5 @@
 project:
-  name: quickstart-amazon-aurora-mysql
+  name: cfn-ps-amazon-aurora-mysql
   owner: quickstart-eng@amazon.com
   package_lambda: false
   regions:
